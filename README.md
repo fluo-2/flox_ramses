@@ -43,7 +43,3 @@ required named arguments:
 ### 4. Changelog
 
 Proposed changes to our workflow are highlighted in `todos.md`.
-
-### Authors
-
-Atreya Shankar, Remika Gupana
